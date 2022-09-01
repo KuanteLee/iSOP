@@ -14,3 +14,4 @@ https://towardsdatascience.com/ <br>
 https://www.storytellingwithdata.com/ <br>
 https://blog.sixeyed.com/ <br>
 https://blogs.nvidia.com.tw/ <br>
+https://ai.facebook.com/blog/ai-speech-brain-activity/ <br>
