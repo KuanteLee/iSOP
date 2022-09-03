@@ -1,6 +1,2 @@
 
-Dive into Deep Learning
-【機器學習2021】自督導式學習 (Self-supervised Learning) (一) – 芝麻街與進擊的巨人
-【機器學習2021】自督導式學習 (Self-supervised Learning) (二) – BERT簡介
-【機器學習2021】自督導式學習 (Self-supervised Learning) (三) – BERT的奇聞軼事
-【機器學習2021】自督導式學習 (Self-supervised Learning) (四) – GPT的野望
+Python BFS和DFS算法第1讲 - 黄浩杰
