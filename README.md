@@ -23,6 +23,26 @@ clear: 清空 shell 命令 <br>
 # Git 指命
 git help <br>
 
+git pull = git pull + git merge <br>
+git fetch 把 repo 的更改內容拉到本地，但先不更改本地內容 <br>
+
+
+// branch 太多不一定會用到，所以先 no checkout <br>
+git clone --no-checkout url my_repo_name <br>
+git status <br>
+
+git remote url <br>
+
+// 這邊在找到要的 branch 再 checkout <br>
+git branch <br>
+git checkout master <br>
+
+git chechout -b new-branch <br>
+git push -u origin new-branch <br>
+
+git commit -am 'message' <br>
+git push <br>
+
 # 簡報技巧
 
 恢復原狀型：
