@@ -1,6 +1,7 @@
 # iSOP
 https://github.com/thunlp/Book_RL4NLP <br>
 http://cs224d.stanford.edu/syllabus.html <br>
+https://readthispaper.com/tw/ <br>
 
 # 常用的 shell 命令
 pwd: 獲取當前檔案的位置 <br>
