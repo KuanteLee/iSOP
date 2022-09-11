@@ -1,1 +1,24 @@
 
+開其他場的權限，對照確認前處理的結果 ex. 路徑的分類, 大於小於應該也是重要訊息
+和 MLDP 權限
+
+Text normalize -> PyTorch or sklearn 應該有套件
+https://ithelp.ithome.com.tw/articles/10262664
+
+根據 node 的屬性可以先初步篩選
+TF-IDF | BM25 先初步篩選
+cosine distance | Pair sentence 歸類一樣意思的 node
+
+確認一下 PCA 用在 word embedding 的效果
+使 auto-encoder 降維
+
+GNN 推薦
+
+Matrix 要設定好
+目前情況應該是多推薦沒關係（但不要太誇張），但少推薦比較嚴重
+
+要釐清那些經過專家診斷的結果
+-> 判斷的依據是根據整張圖 or 單一 path
+-> 如果是整張圖的話，那目前的做法就不合理
+
+是否有更多的 data
