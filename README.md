@@ -14,6 +14,9 @@ https://towardsdatascience.com/clustering-sentence-embeddings-to-identify-intent
 https://www.kaggle.com/code/davidmezzetti/cord-19-analysis-with-sentence-embeddings <br>
 https://www.showmeai.tech/tutorials/36 <br>
 
+[網格交易的原理講解](https://www.bilibili.com/video/BV1Jg4y1v7vr/)
+[原始程式碼](https://github.com/51bitquant/binance_grid_trader)
+
 
 # 常用的 shell 命令
 pwd: 獲取當前檔案的位置 <br>
