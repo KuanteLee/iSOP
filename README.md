@@ -17,6 +17,7 @@ https://www.showmeai.tech/tutorials/36 <br>
 
 https://www.deeplearningai.net/classroom/Introduction_to_Machine_Learning_in_Production <br>
 https://www.youtube.com/watch?v=maGinZ1QsTg&list=PLUw9obN1dChw8yD6zMoU3mZRRQ6cS_Lfy <br>
+https://www.youtube.com/watch?v=xFPCKrdEFqg <br>
 
 
 # 常用的 shell 命令
