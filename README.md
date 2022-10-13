@@ -3,22 +3,6 @@ https://github.com/thunlp/Book_RL4NLP <br>
 http://cs224d.stanford.edu/syllabus.html <br>
 https://readthispaper.com/tw/ <br>
 
-中秋 <br>
-https://paperswithcode.com/paper/link-prediction-based-on-graph-neural <br>
-https://paperswithcode.com/paper/inductive-relation-prediction-on-knowledge <br>
-https://paperswithcode.com/paper/trans-encoder-unsupervised-sentence-pair <br>
-https://blog.51cto.com/Lolitann/5355032 <br>
-https://paperswithcode.com/paper/190412575 <br>
-https://www.sbert.net/docs/usage/semantic_textual_similarity.html <br>
-https://towardsdatascience.com/clustering-sentence-embeddings-to-identify-intents-in-short-text-48d22d3bf02e <br>
-https://www.kaggle.com/code/davidmezzetti/cord-19-analysis-with-sentence-embeddings <br>
-https://www.showmeai.tech/tutorials/36 <br>
-
-
-https://www.deeplearningai.net/classroom/Introduction_to_Machine_Learning_in_Production <br>
-https://www.youtube.com/watch?v=maGinZ1QsTg&list=PLUw9obN1dChw8yD6zMoU3mZRRQ6cS_Lfy <br>
-https://www.youtube.com/watch?v=xFPCKrdEFqg <br>
-
 # SQL
 
 oracle data modeler <br>
