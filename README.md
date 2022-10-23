@@ -3,6 +3,8 @@ https://github.com/thunlp/Book_RL4NLP <br>
 http://cs224d.stanford.edu/syllabus.html <br>
 https://readthispaper.com/tw/ <br>
 
+https://chainee.io/blog/ <br>
+
 # SQL
 
 oracle data modeler <br>
