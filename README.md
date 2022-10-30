@@ -1,14 +1,25 @@
 # iSOP
-https://github.com/thunlp/Book_RL4NLP <br>
 http://cs224d.stanford.edu/syllabus.html <br>
 https://readthispaper.com/tw/ <br>
-
-https://chainee.io/blog/ <br>
 
 # SQL
 
 oracle data modeler <br>
-保留字慣例用大寫, 資料欄位與表格名稱習慣上用小寫 
+
+## index 使用時機
+在正常情況下, 資料表的欄位 index 可以增進擷取資料列的效率, 但是在一個資料表上多建立 index 並不一定可以得到好處. 原因是, 當確認一個具有 index 的 DML 操作時, 意含著 ORACLE 資料庫需去更新該 index 列, 所以當建立 index 的欄位越多, 資料庫的更新負荷也越大, 有時還會適得其反, 整體速度反而更慢. 因此建議使用 index 時間如下: <br>
+
+* 當資料表某個欄位儲存的值範圍很大時 <br>
+* 某個可能會出現大量空值的欄位 <br>
+* 常用於 WHERE 子句或合併條件的欄位 <br>
+* 預期 index 的資料量經常 <4% 的大資料量資料表 <br>
+
+然而, 在下列情況下, 不建議使用 index: <br>
+
+* 不經常用在條件式的欄位 <br>
+* 需要經常更新的資料表 <br>
+* 小資料量的資料表 <br>
+* 預期 index 的資料量經常 >4% 的大資料量資料表 <br>
 
 # 常用的 shell 命令
 pwd: 獲取當前檔案的位置 <br>
