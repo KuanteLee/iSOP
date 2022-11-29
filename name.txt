@@ -10,3 +10,10 @@ cosine distance | Pair sentence 歸類一樣意思的 node
 
 Matrix 要設定好
 目前情況應該是多推薦沒關係（但不要太誇張），但少推薦比較嚴重
+
+https://drive.google.com/uc?export=download&id=1OGun5G1pWAHRXrYSH1v2pg74F4x51Bd6
+https://drive.google.com/uc?export=download&id=1OK66fL86L-O6UlDfBqXdttN40J4FHuSM
+https://drive.google.com/uc?export=download&id=1OL5hd28RFNGrAzrjbUjvvCbKl3sldFeZ
+https://drive.google.com/uc?export=download&id=1LGeheHQpg6KG4sxcjXbKeEK1s9UvKdg-
+https://drive.google.com/uc?export=download&id=1LJTPQ-72qvs7RpOQ__e5WUfl_cR03QKG
+https://drive.google.com/uc?export=download&id=1LJotb6qbFBJA7ujXdTxEnrHiUvCV-WYl
