@@ -7,6 +7,11 @@ https://www.youtube.com/watch?v=xVHhlGOVN3Y <br>
 https://www.yongxi-stat.com/logistic-regression/ <br>
 https://reurl.cc/MXzQEW <br>
 
+ＭＭoE <br>
+https://www.twblogs.net/a/5efb8eead496dddbb541a3fc <br>
+https://www.jianshu.com/p/2bfea809af3b <br>
+https://reurl.cc/6Lqm6y <br>
+
 # SQL
 
 oracle data modeler <br>
