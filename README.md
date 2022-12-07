@@ -2,8 +2,10 @@
 http://cs224d.stanford.edu/syllabus.html <br>
 https://readthispaper.com/tw/ <br>
 
-lo
+logistic regression <br>
 https://www.youtube.com/watch?v=xVHhlGOVN3Y <br>
+https://www.yongxi-stat.com/logistic-regression/ <br>
+https://reurl.cc/MXzQEW <br>
 
 # SQL
 
