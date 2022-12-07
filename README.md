@@ -2,6 +2,9 @@
 http://cs224d.stanford.edu/syllabus.html <br>
 https://readthispaper.com/tw/ <br>
 
+lo
+https://www.youtube.com/watch?v=xVHhlGOVN3Y <br>
+
 # SQL
 
 oracle data modeler <br>
