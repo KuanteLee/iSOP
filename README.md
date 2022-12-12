@@ -13,16 +13,6 @@ https://www.jianshu.com/p/2bfea809af3b <br>
 https://reurl.cc/6Lqm6y <br>
 <br>
 
-# Ensemble
-https://www.cnblogs.com/zongfa/p/9304353.html <br>
-https://zhuanlan.zhihu.com/p/27689464 <br>
-https://www.keywordseo.com.tw/blog1/tour-of-ensemble-learning-algorithms/ <br>
-https://blog.csdn.net/google19890102/article/details/46507387 <br>
-https://chih-sheng-huang821.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ensemble-learning%E4%B9%8Bbagging-boosting%E5%92%8Cadaboost-af031229ebc3 <br>
-https://ithelp.ithome.com.tw/articles/10271882 <br>
-https://www.kaggle.com/discussions/getting-started/160052 <br>
-https://www.kaggle.com/competitions/lyft-motion-prediction-autonomous-vehicles/discussion/199531 <br>
-
 # SQL
 
 oracle data modeler <br>
