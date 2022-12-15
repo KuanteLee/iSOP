@@ -13,6 +13,11 @@ https://www.jianshu.com/p/2bfea809af3b <br>
 https://reurl.cc/6Lqm6y <br>
 <br>
 
+# ensemble
+https://www.v7labs.com/blog/ensemble-learning <br>
+<br>
+https://www.google.com/search?q=ensemble+model&rlz=1C5CHFA_enTW967TW967&ei=aQ6bY4fcKoSQr7wPltu-gA8&start=40&sa=N&ved=2ahUKEwjHtLHFy_v7AhUEyIsBHZatD_A4HhDy0wN6BAgEEAs&biw=1440&bih=707&dpr=2 <br>
+
 # SQL
 
 oracle data modeler <br>
