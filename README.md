@@ -13,10 +13,27 @@ https://www.jianshu.com/p/2bfea809af3b <br>
 https://reurl.cc/6Lqm6y <br>
 <br>
 
-# ensemble
-https://www.v7labs.com/blog/ensemble-learning <br>
+# e
+【機器學習2021】自注意力機制 (Self-attention) (上) <br>
+Transformer论文逐段精读 <br>
+https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/03_transformer_tutorial_1st_part/imgs <br>
+汉语自然语言处理-从零解读碾压循环神经网络的transformer模型(一)-注意力机制-位置编码-attention is all you need <br>
+https://leemeng.tw/neural-machine-translation-with-transformer-and-tensorflow2.html <br>
+https://zhuanlan.zhihu.com/p/149740784 <br>
+https://blogs.nvidia.com.tw/2022/06/21/what-is-a-transformer-model/ <br>
+
 <br>
-https://www.google.com/search?q=ensemble+model&rlz=1C5CHFA_enTW967TW967&ei=aQ6bY4fcKoSQr7wPltu-gA8&start=40&sa=N&ved=2ahUKEwjHtLHFy_v7AhUEyIsBHZatD_A4HhDy0wN6BAgEEAs&biw=1440&bih=707&dpr=2 <br>
+Transformer <br>
+	• Sequence-to-sequence model (Seq2seq)
+	• Input a sequence, output a sequence. The output length is determined by model
+
+
+	• Simple network architecture based solely on attention mechanisms, dispensing with recurrence and convolutions entirely
+	• more parallelizable and requiring significantly less time to train
+	• 在 translation 任務取得很好的成果 （在明確列出來）
+
+QK 計算兩個輸入的關聯性
+
 
 # SQL
 
