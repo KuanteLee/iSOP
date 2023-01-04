@@ -14,13 +14,17 @@ https://reurl.cc/6Lqm6y <br>
 <br>
 
 # e
-【機器學習2021】自注意力機制 (Self-attention) (上) <br>
-Transformer论文逐段精读 <br>
-https://github.com/aespresso/a_journey_into_math_of_ml/tree/master/03_transformer_tutorial_1st_part/imgs <br>
-汉语自然语言处理-从零解读碾压循环神经网络的transformer模型(一)-注意力机制-位置编码-attention is all you need <br>
-https://leemeng.tw/neural-machine-translation-with-transformer-and-tensorflow2.html <br>
-https://zhuanlan.zhihu.com/p/149740784 <br>
-https://blogs.nvidia.com.tw/2022/06/21/what-is-a-transformer-model/ <br>
+https://www.coursera.org/lecture/machine-learning-sas/split-search-6cm1g<br>
+回歸樹用於分類<br>
+https://scientistcafe.com/ids/splitting-criteria.html<br>
+https://www.jmp.com/support/help/en/17.0/#page/jmp/statistical-details-for-the-splitting-criterion.shtml#<br>
+https://www.cnblogs.com/chenyn68/p/3876835.html<br>
+http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/CLS_DT.pdf<br>
+https://www.google.com/search?q=%E5%8D%A1%E6%96%B9%E6%B8%AC%E8%A9%A6+%E6%B1%BA%E7%AD%96%E6%A8%B9&rlz=1C5CHFA_enTW967TW967&ei=G461Y8mJH83z-QbE17iIDQ&ved=0ahUKEwiJg439kK78AhXNed4KHcQrDtEQ4dUDCA8&uact=5&oq=%E5%8D%A1%E6%96%B9%E6%B8%AC%E8%A9%A6+%E6%B1%BA%E7%AD%96%E6%A8%B9&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAE6CggAEEcQ1gQQsAM6BQgAEKIESgQIQRgASgQIRhgAUMECWPwpYIMvaAVwAXgAgAGWAYgBlwiSAQQxNC4xmAEAoAEByAEKwAEB&sclient=gws-wiz-serp<br>
+https://ithelp.ithome.com.tw/articles/10247440<br>
+https://blog.csdn.net/on2way/article/details/88673075<br>
+
+
 
 <br>
 Transformer <br>
