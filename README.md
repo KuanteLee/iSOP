@@ -2,11 +2,6 @@
 http://cs224d.stanford.edu/syllabus.html <br>
 https://readthispaper.com/tw/ <br>
 
-logistic regression <br>
-https://www.youtube.com/watch?v=xVHhlGOVN3Y <br>
-https://www.yongxi-stat.com/logistic-regression/ <br>
-https://reurl.cc/MXzQEW <br>
-
 ＭＭoE <br>
 https://www.twblogs.net/a/5efb8eead496dddbb541a3fc <br>
 https://www.jianshu.com/p/2bfea809af3b <br>
@@ -14,15 +9,7 @@ https://reurl.cc/6Lqm6y <br>
 <br>
 
 # e
-https://www.coursera.org/lecture/machine-learning-sas/split-search-6cm1g<br>
-回歸樹用於分類<br>
-https://scientistcafe.com/ids/splitting-criteria.html<br>
-https://www.jmp.com/support/help/en/17.0/#page/jmp/statistical-details-for-the-splitting-criterion.shtml#<br>
-https://www.cnblogs.com/chenyn68/p/3876835.html<br>
-http://debussy.im.nuu.edu.tw/sjchen/MachineLearning/final/CLS_DT.pdf<br>
-https://www.google.com/search?q=%E5%8D%A1%E6%96%B9%E6%B8%AC%E8%A9%A6+%E6%B1%BA%E7%AD%96%E6%A8%B9&rlz=1C5CHFA_enTW967TW967&ei=G461Y8mJH83z-QbE17iIDQ&ved=0ahUKEwiJg439kK78AhXNed4KHcQrDtEQ4dUDCA8&uact=5&oq=%E5%8D%A1%E6%96%B9%E6%B8%AC%E8%A9%A6+%E6%B1%BA%E7%AD%96%E6%A8%B9&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAE6CggAEEcQ1gQQsAM6BQgAEKIESgQIQRgASgQIRhgAUMECWPwpYIMvaAVwAXgAgAGWAYgBlwiSAQQxNC4xmAEAoAEByAEKwAEB&sclient=gws-wiz-serp<br>
-https://ithelp.ithome.com.tw/articles/10247440<br>
-https://blog.csdn.net/on2way/article/details/88673075<br>
+https://www.lexjansen.com/nesug/nesug12/sa/sa05.pdf <br>
 
 
 
